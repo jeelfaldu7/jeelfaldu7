@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Jeel Faldu] 👋
 
-<!--
-**jeelfaldu7/jeelfaldu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a biology graduate (B.S., 2023) currently completing my capstone project in a data science bootcamp.  
+I'm passionate about using data to uncover insights and solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- Languages: Python, SQL
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Workflow: Jupyter, Streamlit, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Current Focus
+- Finishing my bootcamp capstone project
+- Exploring machine learning and model interpretability
+- Building portfolio projects to showcase real-world skills
+
+## 🌐 Let's Connect
+- [LinkedIn](www.linkedin.com/in/jeel-faldu-a02255219)
+
