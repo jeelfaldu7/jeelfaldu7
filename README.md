@@ -24,6 +24,12 @@
 
 ---
 
+## 📂 My Projects
+
+[See all my projects on GitHub](https://github.com/jeelfaldu7?tab=repositories)
+
+---
+
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelfaldu7)
 
