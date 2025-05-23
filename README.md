@@ -1,8 +1,7 @@
 # 👋 Hi there, I’m Jeel Faldu
-👩‍🔬 I’m a biology graduate (B.S., 2023) pivoting into data science.  
-🎓 Currently completing my final capstone project in a data science bootcamp.  
-🏫 By day, I support student learning at Think Together (after-school program).  
-🌱 I’m a lifelong learner, passionate about turning messy data into clear insights.
+### 👩‍🔬 I’m a biology graduate (B.S., 2023) pivoting into data science.  
+### 🎓 Currently completing my final capstone project in a data science bootcamp.  
+### 🌱 I’m a lifelong learner, passionate about turning messy data into clear insights.
 
 ---
 
