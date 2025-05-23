@@ -31,5 +31,5 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7&show_icons=true&theme=default)
 
