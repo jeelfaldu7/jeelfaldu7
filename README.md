@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi there, I’m Jeel Faldu</h1>
+
 #### 👩‍🔬 I’m a biology graduate (B.S., 2023) pivoting into data science.  
 #### 🎓 Currently completing my final capstone project in a data science bootcamp.  
 #### 🌱 I’m a lifelong learner, passionate about turning messy data into clear insights.
