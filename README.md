@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Let's Connect
-- [LinkedIn](www.linkedin.com/in/jeel-faldu-a02255219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelfaldu7)
 
 ---
 
