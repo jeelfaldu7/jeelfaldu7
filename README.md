@@ -30,5 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats *(optional)*
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?jeelfaldu7=yourusername&show_icons=true&theme=default)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7yourusername&show_icons=true&theme=default)
+
