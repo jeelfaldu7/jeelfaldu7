@@ -1,4 +1,4 @@
-# Hi there, I'm [Jeel Faldu] 👋
+# Hi there, I'm Jeel Faldu 👋
 
 I'm a biology graduate (B.S., 2023) currently completing my capstone project in a data science bootcamp.  
 I'm passionate about using data to uncover insights and solve real-world problems.
