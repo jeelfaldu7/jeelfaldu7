@@ -42,9 +42,9 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 🎮 I enjoy light, casual games like Mario, Subway Surfers, and Lep's World
 
-🏞️ I love hiking, beach walks, and watching the sunrise or sunset—anything that lets me spend time in nature
+🌄 Nature fuels my creativity – I love hiking, beach days, and soaking in a beautiful sunrise or sunset
 
-📜 Lifelong learner – currently completing my final project in a data science bootcamp and always looking to grow
+📘 I'm a dedicated lifelong learner – currently wrapping up my capstone project and always eager to grow
 
 ## 📫 Let's Connect!
 
