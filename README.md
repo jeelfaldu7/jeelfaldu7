@@ -40,11 +40,11 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 ## 🌟 Fun Facts
 
-🎮 I enjoy gaming, especially strategy and story-driven games
+🎮 I enjoy light, casual games like Mario, Subway Surfers, and Lep's World
 
-✈️ Always down to travel and learn about new cultures
+🏞️ I love hiking, beach walks, and watching the sunrise or sunset—anything that lets me spend time in nature
 
-📜 Lifelong learner – last stage in completing a bootcamp to become a data scientist
+📜 Lifelong learner – currently completing my final project in a data science bootcamp and always looking to grow
 
 ## 📫 Let's Connect!
 
