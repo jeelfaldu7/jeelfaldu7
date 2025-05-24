@@ -1,43 +1,56 @@
-<h1 align="center">👋 Hi there, I’m Jeel Faldu</h1>
+# 👋 Hi there, I'm Jeel Faldu!
 
-#### 👩‍🔬 I’m a biology graduate (B.S., 2023) pivoting into data science.  
-#### 🎓 Currently completing my final capstone project in a data science bootcamp.  
-#### 🌱 I’m a lifelong learner, passionate about turning messy data into clear insights.
+🎓 I hold a Bachelor's degree in Biology (Class of 2023) and I’m currently working on my final project in a Data Science Bootcamp. By day, I support young minds at Think Together, an after-school program dedicated to educational equity. By night, I dive into code, machine learning, and solving real-world problems with data.
 
----
+## 💻 What I Do
 
-## 🧠 Interests
-- Machine Learning
-- Data Visualization
-- Real-World Problem Solving with Data
+📊 Aspiring Data Scientist passionate about turning complex datasets into actionable insights
 
-## 🛠 Tools & Technologies
-- **Languages**: Python, SQL  
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Workflow**: Jupyter, Streamlit, Git & GitHub
+🧪 Bridging biology and data science with an analytical mindset and scientific curiosity
 
----
+🌱 Always learning – especially in ML, NLP, and data-driven storytelling
 
-## 📁 What I’m Working On
-- Final bootcamp capstone project
-- Expanding my portfolio with hands-on machine learning models
-- Exploring data storytelling through visualization
+## 🔧 Tech Stack
 
----
+Languages: Python, SQL
 
-## 📂 My Projects
+Libraries/Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow
 
-[See all my projects on GitHub](https://github.com/jeelfaldu7?tab=repositories)
+Other Tools: Jupyter Notebook, Streamlit, Git
 
----
+## 🚀 Projects I'm Proud Of
 
-## 🌐 Let's Connect
+📈 Zuber Ride Forecasting – Predicted taxi ride demand by hour to help optimize driver placement 
+
+🏀 March Madness Predictor – Modeled NCAA basketball matchups with team stats and machine learning 
+
+🤖 Sentiment Analyzer for YouTube Comments – An NLP project to understand comment polarity and engagement trends
+
+## 🎯 Goals
+
+🔬 Combine my biology background with data science to explore biotech, healthcare, or environmental analytics
+
+🧠 Break into a full-time Data Science role post-bootcamp
+
+📚 Continue building a portfolio that showcases real-world impact and creative problem-solving
+
+## 🌟 Fun Facts
+
+🎮 I enjoy gaming, especially strategy and story-driven games
+
+✈️ Always down to travel and learn about new cultures
+
+📜 Lifelong learner – last stage in completing a bootcamp to become a data scientist
+
+##📫 Let's Connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelfaldu7) - https://linkedin.com/in/jeelfaldu7
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeel.faldu7@gmail.com) - jeel.faldu7@gmail.com
 
----
+## 🎨 Style
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7&show_icons=true&theme=default&cache_seconds=0)
+Friendly • Minimalist • Focused on impact • Light touch of ✨ emoji ✨
+
+Thanks for stopping by!
 
