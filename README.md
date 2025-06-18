@@ -4,7 +4,7 @@
 
 ## 💻 What I Do
 
-📊 Aspiring Data Scientist passionate about turning complex datasets into actionable insights
+📊 Data Scientist passionate about turning complex datasets into actionable insights
 
 🧪 Bridging biology and data science with an analytical mindset and scientific curiosity
 
