@@ -18,7 +18,7 @@ Libraries/Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Tenso
 
 Other Tools: Jupyter Notebook, Streamlit, Git
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Impact Driven Projects
 
 📈 Zuber Ride Forecasting – Predicted taxi ride demand by hour to help optimize driver placement 
 
