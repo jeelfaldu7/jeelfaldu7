@@ -12,6 +12,25 @@
 
 🌱 Always learning – especially in ML, NLP, and data-driven storytelling
 
+## 💡 Skills & Expertise
+
+📊 Data Analysis & Visualization — Turning raw data into actionable insights (Pandas, Matplotlib, Seaborn, Plotly)
+
+🤖 Machine Learning — Predictive modeling, classification, and regression (scikit‑learn, TensorFlow)
+
+🧮 Statistical Analysis — A/B testing, hypothesis testing, trend analysis
+
+💬 Data‑Driven Storytelling — Communicating results clearly to stakeholders
+
+## 💼 What I Bring
+🧠 Strong analytical and statistical mindset combined with coding proficiency
+
+🔍 Passion for extracting actionable insights from complex datasets
+
+🌍 Commitment to applying data science for impactful, real‑world solutions
+
+👥 Excellent teamwork and communication developed in collaborative settings
+
 ## 🔧 Tech Stack
 
 Languages: Python, SQL
