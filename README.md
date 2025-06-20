@@ -43,7 +43,7 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 [🚗 Car Ad Insights Dashboard](https://github.com/jeelfaldu7/car_ad_insights_dashboard) — Created an interactive Streamlit app to explore and visualize car sales data. Enables deeper understanding of sales trends, pricing, and market patterns. Deployed publicly on Render.
 
-[🎬 IMDB Movies & Actors Analysis](https://github.com/JohnFDwy/imdb_web_scraping) — Scraped IMDB data for 100 movies and their actors across genres and decades. Analyzed profitability, popularity vs. ratings, and the role of experience in winning accolades.
+[🎥 IMDB Movies & Actors Web Scraping](https://github.com/JohnFDwy/imdb_web_scraping) — Scraped IMDB data for 100 movies and their actors across genres and decades. Analyzed profitability, popularity vs. ratings, and the role of experience in winning accolades.
 
 [📊 YouTube Sentiment Analysis](https://github.com/betanight/youtube_sentiment_analysis) — Explored the link between comment sentiment and engagement metrics. Started with TextBlob for basic sentiment labeling, then built a custom ML model for more accurate detection, providing insights into audience behavior and content performance.
 
