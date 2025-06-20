@@ -41,11 +41,15 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 ## 🚀 Impact Driven Projects
 
-📈 Zuber Ride Forecasting – Predicted taxi ride demand by hour to help optimize driver placement 
+[🚗 Car Ad Insights Dashboard](https://github.com/jeelfaldu7/car_ad_insights_dashboard) – Created an interactive Streamlit app to explore and visualize car sales data. Enables deeper understanding of sales trends, pricing, and market patterns. Deployed publicly on Render.
 
-🏀 March Madness Predictor – Modeled NCAA basketball matchups with team stats and machine learning 
+[🎬 IMDB Movies & Actors Analysis](https://github.com/JohnFDwy/imdb_web_scraping) — Scraped IMDB data for 100 movies and their actors across genres and decades. Analyzed profitability, popularity vs. ratings, and the role of experience in winning accolades.
 
-🤖 Sentiment Analyzer for YouTube Comments – An NLP project to understand comment polarity and engagement trends
+[📊 YouTube Sentiment Analysis](https://github.com/betanight/youtube_sentiment_analysis) — Explored the link between comment sentiment and engagement metrics. Started with TextBlob for basic sentiment labeling, then built a custom ML model for more accurate detection, providing insights into audience behavior and content performance.
+
+[👥 Customer Churn Prediction](https://github.com/jeelfaldu7/customer_churn_forecasting_for_interconnect) — Developed a predictive model to identify customers at risk of churning. Analyzed behavior and demographics, providing actionable recommendations to reduce churn and boost retention.
+
+[🏆 Gold Recovery Prediction](https://github.com/jeelfaldu7/gold_recovery_prediction_using_machine_learning) — Created a ML model for Zyfra to forecast gold recovery across production stages. Aimed to optimize operations, reduce waste, and pinpoint unprofitable steps in the mining workflow.
 
 ## 📂 My Projects
 
@@ -55,9 +59,16 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 🔬 Combine my biology background with data science to explore biotech, healthcare, or environmental analytics
 
-🧠 Break into a full-time Data Science role post-bootcamp
+🔍 Exploring roles as a Data Scientist — applying skills in machine learning, statistics, and programming
+
+🚀 Aiming to build a career delivering impactful, data‑driven results
 
 📚 Continue building a portfolio that showcases real-world impact and creative problem-solving
+
+🌱 Eager to contribute to challenging projects and grow in a collaborative team environment
+
+### 👔 Seeking Opportunities
+I’m currently seeking a role as a Data Scientist, Machine Learning Specialist, or Data Analyst, where I can apply my technical and analytical skills to solve challenging problems and deliver actionable results.
 
 ## 🌟 Fun Facts
 
