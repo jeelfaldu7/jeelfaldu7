@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Jeel Faldu!
 
-🎓 I hold a Bachelor's degree in Biology (Class of 2023) and I’m currently working on my final project in a Data Science Bootcamp. By day, I support young minds at Think Together, an after-school program dedicated to educational equity. By night, I dive into code, machine learning, and solving real-world problems with data.
+🎓 I recently completed an intensive Data Science Bootcamp, gaining hands‑on experience in Python, Machine Learning, Statistical Modeling, and Data Visualization. I’m passionate about turning complex data into actionable insights, building impactful predictive models, and tackling challenging, real‑world problems with analytics.
+
+  I’m excited to apply these skills to help organizations make smarter, data‑driven decisions and contribute to meaningful projects as an aspiring Data Scientist.
 
 ## 💻 What I Do
 
