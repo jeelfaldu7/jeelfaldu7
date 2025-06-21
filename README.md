@@ -84,7 +84,7 @@ I’m currently seeking a role as a Data Scientist, Machine Learning Specialist,
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeel.faldu7@gmail.com) - jeel.faldu7@gmail.com
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/guH27V7B) - Join me
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/guH27V7B) - https://discord.gg/guH27V7B
 
 ## 📊 GitHub Stats
 
