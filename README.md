@@ -41,7 +41,7 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 ## 🚀 Impact Driven Projects
 
-[🚗 Car Ad Insights Dashboard](https://github.com/jeelfaldu7/car_ad_insights_dashboard) — Created an interactive Streamlit app to explore and visualize car sales data. Enables deeper understanding of sales trends, pricing, and market patterns. Deployed publicly on Render.
+[🎶 June Code Pudding: Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam) — Built an interactive Plotly Dash app to explore Spotify audio trends across time and genres. Features include energy, danceability, popularity insights, song clustering with K-Means, and audio previews. Designed for music lovers and data enthusiasts alike. Deployed for public use.
 
 [🎥 IMDB Movies & Actors Web Scraping](https://github.com/JohnFDwy/imdb_web_scraping) — Scraped IMDB data for 100 movies and their actors across genres and decades. Analyzed profitability, popularity vs. ratings, and the role of experience in winning accolades.
 
