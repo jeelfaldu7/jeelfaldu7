@@ -51,9 +51,10 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 [🏆 Gold Recovery Prediction](https://github.com/jeelfaldu7/gold_recovery_prediction_using_machine_learning) — Created a ML model for Zyfra to forecast gold recovery across production stages. Aimed to optimize operations, reduce waste, and pinpoint unprofitable steps in the mining workflow.
 
-## 📂 My Projects
+### 📂 Explore My Projects
 
-[See all my projects on GitHub](https://github.com/jeelfaldu7?tab=repositories)
+Want to browse all my data science and ML projects in one place?  
+👉 [Check out my Project Hub](https://github.com/jeelfaldu7/project-hub)
 
 ## 🎯 Goals
 
