@@ -91,9 +91,5 @@ I’m currently seeking a role as a Data Scientist, Machine Learning Specialist,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7&show_icons=true&theme=default&cache_seconds=0)
 
-## 🎨 Style
-
-Friendly • Minimalist • Focused on impact • Light touch of ✨ emoji ✨
-
 Thanks for stopping by!
 
