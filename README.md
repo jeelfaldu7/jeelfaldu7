@@ -62,11 +62,11 @@ I’m actively looking for roles as a Data Scientist, Machine Learning Specialis
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelfaldu7) - https://linkedin.com/in/jeelfaldu7
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelfaldu7) : https://linkedin.com/in/jeelfaldu7
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeel.faldu7@gmail.com) - jeel.faldu7@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeel.faldu7@gmail.com) : jeel.faldu7@gmail.com
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/guH27V7B)
+[![Discord] : jeelfaldu_
 
 ## 📊 GitHub Stats
 
