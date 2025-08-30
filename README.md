@@ -1,43 +1,26 @@
 # 👋 Hi there, I'm Jeel Faldu!
 
-🎓 I recently completed an intensive Data Science Bootcamp, gaining hands‑on experience in Python, Machine Learning, Statistical Modeling, and Data Visualization. I’m passionate about turning complex data into actionable insights, building impactful predictive models, and tackling challenging, real‑world problems with analytics.
+🎓 I recently completed an intensive Data Science Bootcamp, gaining hands-on experience in Python, Machine Learning, Deep Learning, NLP, and Data Visualization. I’m passionate about transforming raw data into insights, building impactful predictive models, and solving real-world problems with analytics.
 
-  I’m excited to apply these skills to help organizations make smarter, data‑driven decisions and contribute to meaningful projects as an aspiring Data Scientist.
+🌱 With a background in biology, I bring scientific curiosity and an analytical mindset, bridging science and data to uncover patterns, drive smarter decisions, and create meaningful impact.
 
 ## 💻 What I Do
 
-📊 Data Scientist passionate about turning complex datasets into actionable insights
+- 📊 Data Science & Analytics — From data cleaning and EDA to model development and visualization
 
-🧪 Bridging biology and data science with an analytical mindset and scientific curiosity
+- 🤖 Machine Learning & AI — Predictive modeling, classification, regression, and deep learning
 
-🌱 Always learning – especially in ML, NLP, and data-driven storytelling
+- 🧮 Statistical Analysis — Hypothesis testing, A/B testing, forecasting, and trend analysis
+
+- 💬 Data Storytelling — Turning complex results into clear, actionable insights
 
 ## 💡 Skills & Expertise
 
-📊 Data Analysis & Visualization — Turning raw data into actionable insights (Pandas, Matplotlib, Seaborn, Plotly)
-
-🤖 Machine Learning — Predictive modeling, classification, and regression (scikit‑learn, TensorFlow)
-
-🧮 Statistical Analysis — A/B testing, hypothesis testing, trend analysis
-
-💬 Data‑Driven Storytelling — Communicating results clearly to stakeholders
-
-## 💼 What I Bring
-🧠 Strong analytical and statistical mindset combined with coding proficiency
-
-🔍 Passion for extracting actionable insights from complex datasets
-
-🌍 Commitment to applying data science for impactful, real‑world solutions
-
-👥 Excellent teamwork and communication developed in collaborative settings
-
-## 🔧 Tech Stack
-
 Languages: Python, SQL
 
-Libraries/Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow
+Libraries/Frameworks: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, CatBoost, LightGBM, Plotly, Matplotlib, Seaborn
 
-Other Tools: Jupyter Notebook, Streamlit, Git
+Tools: Jupyter Notebook, Streamlit, Dash, Git, Render
 
 ## 🚀 Impact Driven Projects
 
@@ -55,33 +38,27 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 [🏆 Gold Recovery Prediction](https://github.com/jeelfaldu7/gold_recovery_prediction_using_machine_learning) — Created a ML model for Zyfra to forecast gold recovery across production stages. Aimed to optimize operations, reduce waste, and pinpoint unprofitable steps in the mining workflow.
 
-### 📂 Explore My Projects
-
-Want to browse all my data science and ML projects in one place?  
-👉 [Check out my Project Hub](https://github.com/jeelfaldu7/project-hub)
+### 📂 Explore My Projects here: [📚Project Hub](https://github.com/jeelfaldu7/project-hub)
 
 ## 🎯 Goals
 
-🔬 Combine my biology background with data science to explore biotech, healthcare, or environmental analytics
+🔬 Apply my biology + data science background in biotech, healthcare, or environmental analytics
 
-🔍 Exploring roles as a Data Scientist — applying skills in machine learning, statistics, and programming
+🚀 Build impactful, real-world ML solutions that drive smarter decisions
 
-🚀 Aiming to build a career delivering impactful, data‑driven results
-
-📚 Continue building a portfolio that showcases real-world impact and creative problem-solving
-
-🌱 Eager to contribute to challenging projects and grow in a collaborative team environment
+🌱 Keep learning and growing in collaborative, data-driven teams
 
 ### 👔 Seeking Opportunities
-I’m currently seeking a role as a Data Scientist, Machine Learning Specialist, or Data Analyst, where I can apply my technical and analytical skills to solve challenging problems and deliver actionable results.
+
+I’m actively looking for roles as a Data Scientist, Machine Learning Specialist, or Data Analyst, where I can apply my skills to deliver actionable insights and innovative solutions.
 
 ## 🌟 Fun Facts
 
-🎮 I enjoy light, casual games like Mario, Subway Surfers, and Lep's World
+🎮 Casual gamer (Mario, Subway Surfers, Lep’s World)
 
-🌄 Nature fuels my creativity – I love hiking, beach days, and soaking in a beautiful sunrise or sunset
+🌄 Nature enthusiast – hiking, beaches, and sunrises keep me inspired
 
-📘 I'm a dedicated lifelong learner – currently wrapping up my capstone project and always eager to grow
+📘 Lifelong learner – always working on a new project or challenge
 
 ## 📫 Let's Connect!
 
