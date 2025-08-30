@@ -41,6 +41,10 @@ Other Tools: Jupyter Notebook, Streamlit, Git
 
 ## 🚀 Impact Driven Projects
 
+[🎵 Spotify Song Popularity Prediction with PyTorch](https://github.com/jeelfaldu7/predicting_spotify_song_popularity) - Developed a deep learning model in PyTorch to predict Spotify song popularity (0–100) using audio features such as danceability, energy, tempo, and valence. Implemented preprocessing pipelines, hyperparameter tuning, and early stopping for optimization. Visualized model performance with learning curves and prediction vs. actual comparisons. Demonstrated that audio features carry strong predictive power despite external factors like fame and marketing.
+
+[🗺️ Best Summer Sightseeing Roadtrip](https://github.com/ValTsan/dcm-july-codejam) — Collaborative MVP from the July SE + DS Code Jam. Built an app to recommend the optimal U.S. summer sightseeing route across ten iconic landmarks using geographic coordinates and data-driven optimization. Implemented a baseline random route vs. optimized shortest-path model, with interactive maps and visualizations for leg distances. Delivered a lightweight visualization app for SE teammates while performing full technical analysis and modeling in the notebook.
+
 [🎶 June Code Pudding: Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam) — Built an interactive Plotly Dash app to explore Spotify audio trends across time and genres. Features include energy, danceability, popularity insights, song clustering with K-Means, and audio previews. Designed for music lovers and data enthusiasts alike. Deployed for public use.
 
 [🎥 IMDB Movies & Actors Web Scraping](https://github.com/JohnFDwy/imdb_web_scraping) — Scraped IMDB data for 100 movies and their actors across genres and decades. Analyzed profitability, popularity vs. ratings, and the role of experience in winning accolades.
