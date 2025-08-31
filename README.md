@@ -22,7 +22,15 @@ Libraries/Frameworks: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, CatBoost
 
 Tools: Jupyter Notebook, Streamlit, Dash, Git, Render
 
-## 🚀 Impact Driven Projects
+## 🏆 Achievements
+
+- Participated in 7 TripleTen Code Puddings, showcasing consistent practice and problem-solving in competitive settings
+
+- Earned 3 Audience Choice Awards for creativity and impact
+
+- Received 2 Highest Judge Scores, demonstrating technical excellence and strong teamwork
+  
+## 🚀 Featured Projects
 
 [🎵 Spotify Song Popularity Prediction with PyTorch](https://github.com/jeelfaldu7/predicting_spotify_song_popularity) - Developed a deep learning model in PyTorch to predict Spotify song popularity (0–100) using audio features such as danceability, energy, tempo, and valence. Implemented preprocessing pipelines, hyperparameter tuning, and early stopping for optimization. Visualized model performance with learning curves and prediction vs. actual comparisons. Demonstrated that audio features carry strong predictive power despite external factors like fame and marketing.
 
