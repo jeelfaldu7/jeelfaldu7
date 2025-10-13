@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jeel Faldu!
 
-🎓 I recently completed an intensive Data Science Bootcamp, gaining hands-on experience in Python, Machine Learning, Deep Learning, NLP, and Data Visualization. I’m passionate about transforming raw data into insights, building impactful predictive models, and solving real-world problems with analytics.
+🎓 I recently completed an intensive Data Science Bootcamp, gaining hands-on experience in Python, SQL, Machine Learning, Deep Learning, NLP, and Data Visualization. I’m passionate about transforming raw data into insights, building impactful predictive models, and solving real-world problems with analytics.
 
 🌱 With a background in biology, I bring scientific curiosity and an analytical mindset, bridging science and data to uncover patterns, drive smarter decisions, and create meaningful impact.
 
@@ -21,6 +21,23 @@ Languages: Python, SQL
 Libraries/Frameworks: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, CatBoost, LightGBM, Plotly, Matplotlib, Seaborn
 
 Tools: Jupyter Notebook, Streamlit, Dash, Git, Render
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+| **Category** | **Tools** |
+|---------------|-----------|
+| **Languages** | Python, SQL |
+| **ML & AI** | PyTorch, TensorFlow, CatBoost |
+| **Data Viz** | Plotly, Matplotlib, Seaborn |
+| **Frameworks** | Streamlit, Dash |
+| **Others** | Git, Jupyter, Render |
 
 ## 🏆 Achievements
 
