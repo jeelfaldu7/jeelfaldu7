@@ -1,19 +1,16 @@
 # 👋 Hi there, I'm Jeel Faldu!
-#### 💡 Data Scientist | Python, SQL, Machine Learning | Turning Data into Action | Building Real-World Solutions with Code & Curiosity | Biology Background
+#### 💡 Data Scientist | Python, SQL, Machine Learning | End-to-End Analytics & ML | Biology Background
 
-🎓 I recently completed an intensive Data Science Bootcamp, gaining hands-on experience in Python, SQL, Machine Learning, Deep Learning, NLP, and Data Visualization. I’m passionate about transforming raw data into insights, building impactful predictive models, and solving real-world problems with analytics.
+I’m a Data Scientist with a **B.S. in Biology** and a focus on **building production-ready analytics and ML solutions**. I turn messy, real-world data into actionable insights, leveraging **Python, SQL, ML, NLP, and visualization tools**.
 
-🌱 With a background in biology, I bring scientific curiosity and an analytical mindset, bridging science and data to uncover patterns, drive smarter decisions, and create meaningful impact.
+Since **July 2024**, I’ve completed **20+ hands-on projects** across **biotech analytics, NLP, media & music, customer behavior, finance, and transportation**, through Code Jams, Kaggle, the TripleTen program, and an externship. My biology background brings a **scientific mindset**—hypothesis-driven thinking, rigorous validation, and clear communication.
 
 ## 💻 What I Do
 
-- 📊 Data Science & Analytics — From data cleaning and EDA to model development and visualization
-
-- 🤖 Machine Learning & AI — Predictive modeling, classification, regression, and deep learning
-
-- 🧮 Statistical Analysis — Hypothesis testing, A/B testing, forecasting, and trend analysis
-
-- 💬 Data Storytelling — Turning complex results into clear, actionable insights
+- 📊**Data Science & Analytics** — Cleaning and EDA to modeling, visualization
+- 🤖 **Machine Learning & AI** — Predictive modeling, classification, regression, and deep learning
+- 🧮 **Statistical & Experimentation** — Hypothesis testing, A/B testing, forecasting, and trend analysis
+- 💬 **Data Storytelling** — Turning complex results into actionable insights
 
 ## 💡 Skills & Expertise
 
@@ -40,77 +37,108 @@
 | **Languages** | Python, SQL |
 | **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, CatBoost, LightGBM |
 | **Deep Learning** | Neural Networks, CNNs, Model Evaluation |
-| **NLP** | Sentiment Analysis, Text Classification |
+| **NLP** | Sentiment Analysis, Text Classification, Transformers |
 | **EDA & Visualization** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, *learning Tableau* |
 | **Data Science Workflow** | Data Cleaning, Feature Engineering, Model Tuning, Cross-validation |
 | **Statistics & Analytics** | Hypothesis Testing, A/B Testing, Regression, Forecasting |
-| **Deployment Tools** | Git, Render |
-| **Web Scraping & Data Collection** | BeautifulSoup, Requests |
-| **Domain Focus** | Biology, Healthcare, Education, Environmental Data Analysis |
+| **Deployment Tools** | Git, Render, Data Piplelines |
+| **Data Collection** | Web Scraping (BeautifulSoup, Requests) |
+| **Domain Experience** | Biology, Biotech, Healthcare, Education, Environmental Data |
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
-- Participated in 8 TripleTen Code Puddings, showcasing consistent practice and problem-solving in competitive settings.
-- Earned 3 Audience Choice Awards for creativity and impact:
-  - [June Code Pudding: Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam)  
-  - [May Code Pudding: Wikipedia Bias Detection](https://github.com/jeelfaldu7/may_code_jam_pudding)  
-  - [February Code Pudding: IMDB Web Scraping](https://github.com/JohnFDwy/imdb_web_scraping)
-- Received 3 Highest Judge Scores, demonstrating technical excellence and strong teamwork:
-  - [September Code Pudding: Global Happiness Score Prediction](https://github.com/hamedtaeb/Project_SmileScore)  
-  - [August Code Pudding: Spotify Song Popularity Prediction](https://github.com/jeelfaldu7/predicting_spotify_song_popularity)  
-  - [April Code Pudding: YouTube Sentiment Analysis](https://github.com/jeelfaldu7/youtube_sentiment_analysis)
-  
+- **20+ end-to-end data science projects** completed since July 2024
+- **10+ competitive Code Jams** with cross-functional teams
+- **🏅 4 Highest Judge Scores** for technical excellence
+- **🏆 3 Audience Choice Awards** for creativity and impact
+- Participated in **Kaggle competition** applying real-world ML skills
+
+### Award-Winning Projects:
+
+#### 🏅 Highest Judge Score:
+- [October Code Pudding: NLP Sentiment Analysis with Hugging Face](https://github.com/jeelfaldu7/transformer_sentiment_analysis) 
+- [September Code Pudding: Global Happiness Score Prediction](https://github.com/hamedtaeb/Project_SmileScore)  
+- [August Code Pudding: Spotify Song Popularity Prediction](https://github.com/jeelfaldu7/predicting_spotify_song_popularity)  
+- [April Code Pudding: YouTube Sentiment Analysis](https://github.com/jeelfaldu7/youtube_sentiment_analysis)
+
+#### 🏆 Audience Award:
+- [June Code Pudding: Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam)  
+- [May Code Pudding: Wikipedia Bias Detection](https://github.com/jeelfaldu7/may_code_jam_pudding)
+- [February Code Pudding: IMDB Web Scraping](https://github.com/JohnFDwy/imdb_web_scraping)
+
 ## 🚀 Featured Projects
 
-[🌍 World Happiness Report Analysis (2015–2023)](https://github.com/hamedtaeb/Project_SmileScore) — Conducted an exploratory data analysis (EDA) on the World Happiness Report dataset to identify key drivers of happiness across countries and regions. Investigated GDP, social support, life expectancy, freedom, generosity, and corruption perception as features influencing happiness scores. Built and compared regression and seasonal models, visualized trends over time, and created an interactive dashboard to explore country-level and global happiness patterns. Delivered actionable insights into regional differences and factors affecting overall well-being.
+1. [🧬 Biotech Trend Intelligence Platform (Google AI Agents Intensive Capstone — Dec 2025)](https://github.com/jeelfaldu7/bio_project)
+- AI-powered NLP platform automating trend extraction across biotech articles.
+- Processed **200+ unstructured articles** into structured, actionable insights.
+- Designed **interactive dashboards** for strategic analysis.
 
-[🎵 Spotify Song Popularity Prediction with PyTorch](https://github.com/jeelfaldu7/predicting_spotify_song_popularity) — Developed a deep learning model in PyTorch to predict Spotify song popularity (0–100) using audio features such as danceability, energy, tempo, and valence. Implemented preprocessing pipelines, hyperparameter tuning, and early stopping for optimization. Visualized model performance with learning curves and prediction vs. actual comparisons. Demonstrated that audio features carry strong predictive power despite external factors like fame and marketing.
+**Tech**: Python, NLP, **Transformers**, Text Processing, Data Pipelines, Dashboards
 
-[🗺️ Best Summer Sightseeing Roadtrip](https://github.com/ValTsan/dcm-july-codejam) — Collaborative MVP from the July SE + DS Code Jam. Built an app to recommend the optimal U.S. summer sightseeing route across ten iconic landmarks using geographic coordinates and data-driven optimization. Implemented a baseline random route vs. optimized shortest-path model, with interactive maps and visualizations for leg distances. Delivered a lightweight visualization app for SE teammates while performing full technical analysis and modeling in the notebook.
+2. [🌍 World Happiness Score Prediction (🥇 Highest Judge Score)](https://github.com/hamedtaeb/Project_SmileScore)
+- Regression-based models predicting happiness scores (2015–2023) using socioeconomic indicators.
+- Deep EDA, regional comparisons, seasonal modeling, and interactive dashboard creation.
 
-[🎶 Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam) — Built an interactive Plotly Dash app to explore Spotify audio trends across time and genres. Features include energy, danceability, popularity insights, song clustering with K-Means, and audio previews. Designed for music lovers and data enthusiasts alike. Deployed for public use.
+**Tech**: Python, ML, EDA, **Time Series**, Data Visualization, Dashboards
 
-[🎥 IMDB Movies & Actors Web Scraping](https://github.com/JohnFDwy/imdb_web_scraping) — Scraped IMDB data for 100 movies and their actors across genres and decades. Analyzed profitability, popularity vs. ratings, and the role of experience in winning accolades.
+3. [🎵 Spotify Song Popularity Prediction with PyTorch (🥇 Highest Judge Score)](https://github.com/jeelfaldu7/predicting_spotify_song_popularity)
 
-[📊 YouTube Sentiment Analysis](https://github.com/betanight/youtube_sentiment_analysis) — Explored the link between comment sentiment and engagement metrics. Started with TextBlob for basic sentiment labeling, then built a custom ML model for more accurate detection, providing insights into audience behavior and content performance.
+- Deep learning model predicting song popularity (0–100) from audio features.
+- End-to-end pipeline: preprocessing, feature scaling, tuning, evaluation.
 
-[👥 Customer Churn Prediction](https://github.com/jeelfaldu7/customer_churn_forecasting_for_interconnect) — Developed a predictive model to identify customers at risk of churning. Analyzed behavior and demographics, providing actionable recommendations to reduce churn and boost retention.
+**Tech**: **PyTorch**, Neural Networks, Python, Feature Engineering, Model Evaluation
 
-[🏆 Gold Recovery Prediction](https://github.com/jeelfaldu7/gold_recovery_prediction_using_machine_learning) — Created a ML model for Zyfra to forecast gold recovery across production stages. Aimed to optimize operations, reduce waste, and pinpoint unprofitable steps in the mining workflow.
+4. [🗺️ DayTrippr — Optimized U.S. Road Trip Planner](https://github.com/ValTsan/dcm-july-codejam)
+- MVP recommending efficient sightseeing routes across 10 U.S. landmarks.
+- Applied **geospatial analysis & optimization**; delivered interactive maps.
+
+**Tech**: Python, **Geospatial Analysis**, Optimization, Data Visualization
+
+5. [🎶 Spotify Interactive Dashboard (🏆 Audience Choice Award)](https://github.com/jeelfaldu7/june_code_jam)  
+- Built and deployed an **interactive Plotly Dash application** to explore Spotify music trends across genres and time.
+- Implemented filters, **K-Means clustering**, similarity search, and audio feature exploration.
+- Designed the dashboard for both technical and non-technical users, emphasizing usability and insight discovery.
+
+**Tech**: Plotly Dash, Python, **Clustering**, Data Visualization, Deployment
+
+6. [👥 Customer Churn Prediction](https://github.com/jeelfaldu7/customer_churn_forecasting_for_interconnect)
+
+- Built end-to-end machine learning models to identify customers at high risk of churn using demographic and usage data.
+- Performed data cleaning, feature engineering, and EDA to uncover key churn drivers. 
+- Trained and compared Logistic Regression, Random Forest, XGBoost, and **LightGBM**, selecting LightGBM for best performance (**AUC-ROC: 0.915, Accuracy: 89%**).
+- Addressed **class imbalance** through resampling and threshold tuning to improve recall on churned customers.
+- Delivered actionable insights to support retention strategies and reduce customer attrition.
+
+**Tech**: Python, Pandas, Scikit-learn, LightGBM, XGBoost, EDA, Model Evaluation
 
 ### 📂 Explore My Projects here: [📚Project Hub](https://github.com/jeelfaldu7/project-hub)
 
 ## 💼 Externship Experience
 
-**Insight7 / TripleTen Data Science Externship** (Aug 2025 – Sep 2025)  
-- Applied machine learning and analytics to support student success on an educational platform.  
-- Focused on evaluating AI-generated tutoring call metrics and their impact on student engagement and progress.  
-- Conducted data preprocessing, exploratory analysis, and predictive modeling using tree-based methods.  
-- Extracted actionable insights to guide program improvements and enhance student outcomes.  
+### 📊 Data Scientist — Insight7 / TripleTen (Aug 2025 – Sep 2025)
+- Applied **end-to-end data science workflows** on educational platform data, analyzing AI tutoring call metrics and student engagement.
+- Performed **data cleaning, EDA, and feature engineering** on noisy, real-world datasets.
+- Built and evaluated **tree-based ML models** (Gradient Boosting, Random Forest) to identify key engagement drivers.
+- Collaborated with a **cross-functional team**, iterating on analysis and modeling decisions.
 
-**Key Skills Applied:** Python, Pandas, NumPy, Scikit-learn, Gradient Boosting, EDA, Feature Engineering, Regression Modeling, Data Cleaning, Visualization  
+**Tech Skills**: Python, Pandas, NumPy, Scikit-learn, Gradient Boosting, Random Forest, EDA, Feature Engineering, Data Visualization
 
-**Takeaway:** Gained hands-on experience in applying ML to real-world educational data, handling imperfect datasets, and producing insights for decision-making.
+**Soft Skills**: Problem Solving, Communication, Teamwork, Analytical Thinking, Adaptability, Presentation
 
-## 🎯 Goals
+**Impact**: Hands-on experience with **real-world ML and analytics**, improving both technical and stakeholder-facing skills.
 
-🔬 Apply my biology + data science background in biotech, healthcare, or environmental analytics
-
-🚀 Build impactful, real-world ML solutions that drive smarter decisions
-
-🌱 Keep learning and growing in collaborative, data-driven teams
+## 🎯 Career Goals
+- Secure a **Data Scientist / Machine Learning / Data Analyst role** shipping real, impact-driven analytics & ML solutions.
+- Leverage **biology + data science** in biotech, healthcare, and applied analytics.
+- Build **production-ready pipelines**: raw data → validated models → stakeholder dashboards.
+- Grow within collaborative, data-driven teams emphasizing **reproducibility, clarity, and impact**.
+- Continue advancing ML, NLP, and analytics skills while contributing meaningful business insights.
 
 ### 👔 Seeking Opportunities
-
-I’m actively looking for roles as a Data Scientist, Machine Learning Specialist, or Data Analyst, where I can apply my skills to deliver actionable insights and innovative solutions.
+Data Scientist, Machine Learning Specialist, or Data Analyst roles focused on actionable insights and innovation.
 
 ## 🌟 Fun Facts
-
-🎮 Casual gamer (Mario, Subway Surfers, Lep’s World)
-
-🌄 Nature enthusiast – hiking, beaches, and sunrises keep me inspired
-
-📘 Lifelong learner – always working on a new project or challenge
+🌄 Nature enthusiast | 📘 Lifelong learner
 
 ## 📫 Let's Connect!
 
