@@ -7,10 +7,11 @@ Since **July 2024**, I’ve completed **20+ hands-on projects** across **biotech
 
 ## 💻 What I Do
 
-- 📊**Data Science & Analytics** — Cleaning and EDA to modeling, visualization
-- 🤖 **Machine Learning & AI** — Predictive modeling, classification, regression, and deep learning
-- 🧮 **Statistical & Experimentation** — Hypothesis testing, A/B testing, forecasting, and trend analysis
-- 💬 **Data Storytelling** — Turning complex results into actionable insights
+- 📊 **Data Analysis & Analytics** — Clean, explore, and transform data into actionable insights  
+- 🤖 **Machine Learning & AI** — Build predictive, classification, regression, and deep learning models, including CNNs and transformers  
+- 🧮 **Statistical & Experimentation** — Perform hypothesis testing, A/B testing, forecasting, and trend analysis  
+- 💬 **Data Storytelling & Deployment** — Deliver interactive dashboards, visualizations, and production-ready pipelines for stakeholder decisions  
+- 🌐 **Cross-Domain Application** — Apply data science skills across biotech, healthcare, finance, media, or any domain needing data-driven solutions
 
 ## 💡 Skills & Expertise
 
