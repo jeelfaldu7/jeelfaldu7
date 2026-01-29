@@ -18,6 +18,7 @@ Since **July 2024**, I’ve completed **20+ hands-on projects** across **biotech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -34,16 +35,16 @@ Since **July 2024**, I’ve completed **20+ hands-on projects** across **biotech
 
 | **Category** | **Skills & Tools** |
 |---------------|--------------------|
-| **Languages** | Python, SQL |
-| **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, CatBoost, LightGBM |
-| **Deep Learning** | Neural Networks, CNNs, Model Evaluation |
+| **Languages** | Python, SQL, Bash |
+| **Machine Learning** | Regression & Classification Models, Scikit-learn, XGBoost, CatBoost, LightGBM |
+| **Deep Learning / CV** | CNNs, Transfer Learning, ResNet, EfficientNet, PyTorch, TensorFlow, Model Evaluation |
 | **NLP** | Sentiment Analysis, Text Classification, Transformers |
-| **EDA & Visualization** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Dash, *learning Tableau* |
-| **Data Science Workflow** | Data Cleaning, Feature Engineering, Model Tuning, Cross-validation |
-| **Statistics & Analytics** | Hypothesis Testing, A/B Testing, Regression, Forecasting |
-| **Deployment Tools** | Git, Render, Data Piplelines |
+| **EDA & Visualization** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, Streamlit, Tableau |
+| **Data Science Workflow** | Data Cleaning, Feature Engineering, Model Tuning, Cross-validation, Pipelines |
+| **Statistics & Analytics** | Hypothesis Testing, Regression, Forecasting, A/B Testing |
+| **Deployment & Pipelines** | Git, Render, API Deployment, Data Pipelines |
 | **Data Collection** | Web Scraping (BeautifulSoup, Requests) |
-| **Domain Experience** | Biology, Biotech, Healthcare, Education, Environmental Data |
+| **Domain Experience** | Biology, Biotech, Healthcare, Education, Environmental Data — open to all domains |
 
 ## 🏆 Achievements & Highlights
 
@@ -88,20 +89,27 @@ Since **July 2024**, I’ve completed **20+ hands-on projects** across **biotech
 
 **Tech**: **PyTorch**, Neural Networks, Python, Feature Engineering, Model Evaluation
 
-4. [🗺️ DayTrippr — Optimized U.S. Road Trip Planner](https://github.com/ValTsan/dcm-july-codejam)
+4. [🛒 Good Seed Age Verification Model](https://github.com/jeelfaldu7/good_seed_age_verification)  
+   - CNN-based model predicting age from facial images for alcohol compliance  
+   - Achieved **validation MAE: 6.64**, improving accuracy and reducing manual checks  
+   - Enables legal compliance decisions at checkout with automation  
+
+**Tech:** Python, CNNs, TensorFlow, PyTorch, Data Pipelines, Model Evaluation
+
+5. [🗺️ DayTrippr — Optimized U.S. Road Trip Planner](https://github.com/ValTsan/dcm-july-codejam)
 - MVP recommending efficient sightseeing routes across 10 U.S. landmarks.
 - Applied **geospatial analysis & optimization**; delivered interactive maps.
 
 **Tech**: Python, **Geospatial Analysis**, Optimization, Data Visualization
 
-5. [🎶 Spotify Interactive Dashboard (🏆 Audience Choice Award)](https://github.com/jeelfaldu7/june_code_jam)  
+6. [🎶 Spotify Interactive Dashboard (🏆 Audience Choice Award)](https://github.com/jeelfaldu7/june_code_jam)  
 - Built and deployed an **interactive Plotly Dash application** to explore Spotify music trends across genres and time.
 - Implemented filters, **K-Means clustering**, similarity search, and audio feature exploration.
 - Designed the dashboard for both technical and non-technical users, emphasizing usability and insight discovery.
 
 **Tech**: Plotly Dash, Python, **Clustering**, Data Visualization, Deployment
 
-6. [👥 Customer Churn Prediction](https://github.com/jeelfaldu7/customer_churn_forecasting_for_interconnect)
+7. [👥 Customer Churn Prediction](https://github.com/jeelfaldu7/customer_churn_forecasting_for_interconnect)
 
 - Built end-to-end machine learning models to identify customers at high risk of churn using demographic and usage data.
 - Performed data cleaning, feature engineering, and EDA to uncover key churn drivers. 
@@ -128,11 +136,10 @@ Since **July 2024**, I’ve completed **20+ hands-on projects** across **biotech
 **Impact**: Hands-on experience with **real-world ML and analytics**, improving both technical and stakeholder-facing skills.
 
 ## 🎯 Career Goals
-- Secure a **Data Scientist / Machine Learning / Data Analyst role** shipping real, impact-driven analytics & ML solutions.
-- Leverage **biology + data science** in biotech, healthcare, and applied analytics.
-- Build **production-ready pipelines**: raw data → validated models → stakeholder dashboards.
-- Grow within collaborative, data-driven teams emphasizing **reproducibility, clarity, and impact**.
-- Continue advancing ML, NLP, and analytics skills while contributing meaningful business insights.
+- Secure a **Data Scientist / ML / Data Analyst role** shipping real, impact-driven solutions  
+- Leverage **biology + data science** experience in biotech, healthcare, and applied analytics, while being open to contributing in other domains as well  
+- Build **production-ready pipelines** from raw data → models → dashboards  
+- Continue advancing ML, NLP, CV, and analytics skills while contributing meaningful business insights
 
 ### 👔 Seeking Opportunities
 Data Scientist, Machine Learning Specialist, or Data Analyst roles focused on actionable insights and innovation.
