@@ -1,170 +1,207 @@
-# 👋 Hi there, I'm Jeel Faldu!
-#### 💡 Data Scientist | Python, SQL, Machine Learning | End-to-End Analytics & ML | Biology Background
+# 👋 Hi, I'm Jeel Faldu
 
-I’m a Data Scientist with a **B.S. in Biology** and a focus on **building production-ready analytics and ML solutions**. I turn messy, real-world data into actionable insights, leveraging **Python, SQL, ML, NLP, and visualization tools**.
+<div align="center">
 
-Since **July 2024**, I’ve completed **20+ hands-on projects** across **biotech analytics, NLP, media & music, customer behavior, finance, and transportation**, through Code Jams, Kaggle, the TripleTen program, and an externship. My biology background brings a **scientific mindset**—hypothesis-driven thinking, rigorous validation, and clear communication.
+### ML Engineer & Data Scientist | Biology x Machine Learning | End-to-End Pipelines to Production
 
-## 💻 What I Do
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=12+Code+Jams+%C2%B7+8+Wins+%C2%B7+3+Audience+Awards;25%2B+End-to-End+ML+Projects;Biology+%C3%97+Machine+Learning+%3D+Unique+Edge;From+Raw+Data+to+Production+Pipelines)
 
-- 📊 **Data Analysis & Analytics** — Clean, explore, and transform data into actionable insights  
-- 🤖 **Machine Learning & AI** — Build predictive, classification, regression, and deep learning models, including CNNs and transformers  
-- 🧮 **Statistical & Experimentation** — Perform hypothesis testing, A/B testing, forecasting, and trend analysis  
-- 💬 **Data Storytelling & Deployment** — Deliver interactive dashboards, visualizations, and production-ready pipelines for stakeholder decisions  
-- 🌐 **Cross-Domain Application** — Apply data science skills across biotech, healthcare, finance, media, or any domain needing data-driven solutions
+</div>
 
-## 💡 Skills & Expertise
+---
 
-### 💻 Tech Stack
+I'm an ML Engineer with a B.S. in Biology (cum laude) who brings scientific rigor to every data problem. Since July 2024, I've shipped 25+ end-to-end ML and analytics projects across healthcare, biotech, NLP, finance, and media. My biology background gives me a genuine edge in domains where understanding the data means understanding the science.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-1E88E5?logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9A77CF?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0099E5?logo=render&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+---
 
-| **Category** | **Skills & Tools** |
-|---------------|--------------------|
-| **Languages** | Python, SQL, Bash |
-| **Machine Learning** | Regression & Classification Models, Scikit-learn, XGBoost, CatBoost, LightGBM |
-| **Deep Learning / CV** | CNNs, Transfer Learning, ResNet, EfficientNet, PyTorch, TensorFlow, Model Evaluation |
-| **NLP** | Sentiment Analysis, Text Classification, Transformers |
-| **EDA & Visualization** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, Streamlit, Tableau |
-| **Data Science Workflow** | Data Cleaning, Feature Engineering, Model Tuning, Cross-validation, Pipelines |
-| **Statistics & Analytics** | Hypothesis Testing, Regression, Forecasting, A/B Testing |
-| **Deployment & Pipelines** | Git, Render, API Deployment, Data Pipelines |
-| **Data Collection** | Web Scraping (BeautifulSoup, Requests) |
-| **Domain Experience** | Biology, Biotech, Healthcare, Education, Environmental Data — open to all domains |
+## 🛠 Technical Skills
 
-## 🏆 Achievements & Highlights
+<div align="center">
 
-- **20+ end-to-end data science projects** completed since July 2024
-- **10+ competitive Code Jams** with cross-functional teams
-- **🏅 4 Highest Judge Scores** for technical excellence
-- **🏆 3 Audience Choice Awards** for creativity and impact
-- Participated in **Kaggle competition** applying real-world ML skills
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Award-Winning Projects:
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-#### 🏅 Highest Judge Score:
-- [October Code Pudding: NLP Sentiment Analysis with Hugging Face](https://github.com/jeelfaldu7/transformer_sentiment_analysis) 
-- [September Code Pudding: Global Happiness Score Prediction](https://github.com/hamedtaeb/Project_SmileScore)  
-- [August Code Pudding: Spotify Song Popularity Prediction](https://github.com/jeelfaldu7/predicting_spotify_song_popularity)  
-- [April Code Pudding: YouTube Sentiment Analysis](https://github.com/jeelfaldu7/youtube_sentiment_analysis)
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02B875?style=for-the-badge&logo=python&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=python&logoColor=black)
 
-#### 🏆 Audience Award:
-- [June Code Pudding: Spotify Dashboard](https://github.com/jeelfaldu7/june_code_jam)  
-- [May Code Pudding: Wikipedia Bias Detection](https://github.com/jeelfaldu7/may_code_jam_pudding)
-- [February Code Pudding: IMDB Web Scraping](https://github.com/JohnFDwy/imdb_web_scraping)
+### Deep Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements at a Glance
+
+<div align="center">
+
+| 🥇 Code Jam Wins | 🏆 Audience Awards | 🥇 Highest Judge Scores | 📦 Projects Shipped |
+|:---:|:---:|:---:|:---:|
+| **8 / 12** | **3** | **4** | **25+** |
+
+</div>
+
+- **8/12 Code Jam wins** across cross-functional teams, live judging, real deadlines
+- **3x Audience Choice Award** for dashboards and projects that communicate, not just compute
+- **4x Highest Judge Score** for NLP sentiment analysis, happiness prediction, Spotify deep learning, YouTube analytics
+- **Google AI Agents Intensive Capstone** shipped a production-ready NLP intelligence platform
+- **Databricks ML Certification** Data Preparation for Machine Learning
+- **Kaggle competition participant**
+
+---
 
 ## 🚀 Featured Projects
 
-1. [🧬 Biotech Trend Intelligence Platform (Google AI Agents Intensive Capstone — Dec 2025)](https://github.com/jeelfaldu7/bio_project)
-- AI-powered NLP platform automating trend extraction across biotech articles.
-- Processed **200+ unstructured articles** into structured, actionable insights.
-- Designed **interactive dashboards** for strategic analysis.
+### 🧬 Biotech Trend Intelligence Platform
+`Google AI Agents Intensive Capstone` `Dec 2025` `NLP` `AI Agents`
 
-**Tech**: Python, NLP, **Transformers**, Text Processing, Data Pipelines, Dashboards
+AI-powered NLP pipeline automating trend extraction across 200+ unstructured biotech articles, turning noise into structured, actionable intelligence.
+- Processed raw article text into ranked trend clusters using KMeans + cosine similarity
+- Built an interactive Streamlit dashboard for strategic analysis by non-technical stakeholders
 
-2. [🌍 World Happiness Score Prediction (🥇 Highest Judge Score)](https://github.com/hamedtaeb/Project_SmileScore)
-- Regression-based models predicting happiness scores (2015–2023) using socioeconomic indicators.
-- Deep EDA, regional comparisons, seasonal modeling, and interactive dashboard creation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Tech**: Python, ML, EDA, **Time Series**, Data Visualization, Dashboards
+---
 
-3. [🎵 Spotify Song Popularity Prediction with PyTorch (🥇 Highest Judge Score)](https://github.com/jeelfaldu7/predicting_spotify_song_popularity)
+### 📈 U.S. Consumer Behavior Under Inflation
+`DS/ML Code Jam 2025` `Macroeconomics` `Time Series`
 
-- Deep learning model predicting song popularity (0–100) from audio features.
-- End-to-end pipeline: preprocessing, feature scaling, tuning, evaluation.
+Analyzed post-COVID macroeconomic shifts using FRED data to identify structural breaks in consumer spending patterns.
+- Applied OLS regression, ruptures changepoint detection, and Prophet forecasting
+- Identified 3 statistically significant structural breaks correlating with CPI and Fed rate events
 
-**Tech**: **PyTorch**, Neural Networks, Python, Feature Engineering, Model Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
-4. [🛒 Good Seed Age Verification Model](https://github.com/jeelfaldu7/good_seed_age_verification)  
-   - CNN-based model predicting age from facial images for alcohol compliance  
-   - Achieved **validation MAE: 6.64**, improving accuracy and reducing manual checks  
-   - Enables legal compliance decisions at checkout with automation  
+---
 
-**Tech:** Python, CNNs, TensorFlow, PyTorch, Data Pipelines, Model Evaluation
+### 👥 Customer Churn Prediction
+`ML Pipeline` `AUC-ROC 0.915` `Accuracy 89%`
 
-5. [🗺️ DayTrippr — Optimized U.S. Road Trip Planner](https://github.com/ValTsan/dcm-july-codejam)
-- MVP recommending efficient sightseeing routes across 10 U.S. landmarks.
-- Applied **geospatial analysis & optimization**; delivered interactive maps.
+End-to-end ML pipeline identifying customers at high risk of churn, enabling proactive retention decisions.
+- Trained Logistic Regression, Random Forest, XGBoost, and LightGBM; LightGBM won with AUC-ROC 0.915 and Accuracy 89%
+- Addressed class imbalance via resampling and threshold tuning to maximize recall on churned customers
 
-**Tech**: Python, **Geospatial Analysis**, Optimization, Data Visualization
+![LightGBM](https://img.shields.io/badge/LightGBM-02B875?style=flat&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-6. [🎶 Spotify Interactive Dashboard (🏆 Audience Choice Award)](https://github.com/jeelfaldu7/june_code_jam)  
-- Built and deployed an **interactive Plotly Dash application** to explore Spotify music trends across genres and time.
-- Implemented filters, **K-Means clustering**, similarity search, and audio feature exploration.
-- Designed the dashboard for both technical and non-technical users, emphasizing usability and insight discovery.
+---
 
-**Tech**: Plotly Dash, Python, **Clustering**, Data Visualization, Deployment
+### 🎭 Transformer Sentiment Analysis
+`🥇 Highest Judge Score` `October Code Pudding` `NLP`
 
-7. [👥 Customer Churn Prediction](https://github.com/jeelfaldu7/customer_churn_forecasting_for_interconnect)
+Fine-tuned DistilBERT and RoBERTa for multi-class sentiment classification. Earned the top technical score from judges.
 
-- Built end-to-end machine learning models to identify customers at high risk of churn using demographic and usage data.
-- Performed data cleaning, feature engineering, and EDA to uncover key churn drivers. 
-- Trained and compared Logistic Regression, Random Forest, XGBoost, and **LightGBM**, selecting LightGBM for best performance (**AUC-ROC: 0.915, Accuracy: 89%**).
-- Addressed **class imbalance** through resampling and threshold tuning to improve recall on churned customers.
-- Delivered actionable insights to support retention strategies and reduce customer attrition.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**Tech**: Python, Pandas, Scikit-learn, LightGBM, XGBoost, EDA, Model Evaluation
+---
 
-### 📂 Explore My Projects here: [📚Project Hub](https://github.com/jeelfaldu7/project-hub)
+### 🎵 Spotify Interactive Dashboard
+`🏆 Audience Choice Award` `Deployed` `Dashboard`
 
-## 💼 Externship Experience
+Deployed a full Plotly Dash app exploring Spotify trends across genres and time, built for both technical and non-technical users.
+- Implemented KMeans clustering, audio feature similarity search, and interactive genre filters
 
-### 📊 Data Scientist — Insight7 / TripleTen (Aug 2025 – Sep 2025)
-- Applied **end-to-end data science workflows** on educational platform data, analyzing AI tutoring call metrics and student engagement.
-- Performed **data cleaning, EDA, and feature engineering** on noisy, real-world datasets.
-- Built and evaluated **tree-based ML models** (Gradient Boosting, Random Forest) to identify key engagement drivers.
-- Collaborated with a **cross-functional team**, iterating on analysis and modeling decisions.
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Tech Skills**: Python, Pandas, NumPy, Scikit-learn, Gradient Boosting, Random Forest, EDA, Feature Engineering, Data Visualization
+---
 
-**Soft Skills**: Problem Solving, Communication, Teamwork, Analytical Thinking, Adaptability, Presentation
+### 🛒 Age Verification CNN
+`Computer Vision` `MAE 6.64` `Compliance Automation`
 
-**Impact**: Hands-on experience with **real-world ML and analytics**, improving both technical and stakeholder-facing skills.
+CNN model predicting age from facial images for alcohol compliance automation at point of sale.
+- Validation MAE: 6.64, reducing manual verification overhead
 
-## 🎯 Career Goals
-- Secure a **Data Scientist / ML / Data Analyst role** shipping real, impact-driven solutions  
-- Leverage **biology + data science** experience in biotech, healthcare, and applied analytics, while being open to contributing in other domains as well  
-- Build **production-ready pipelines** from raw data → models → dashboards  
-- Continue advancing ML, NLP, CV, and analytics skills while contributing meaningful business insights
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### 👔 Seeking Opportunities
-Data Scientist, Machine Learning Specialist, or Data Analyst roles focused on actionable insights and innovation.
+---
 
-## 🌟 Fun Facts
-🌄 Nature enthusiast | 📘 Lifelong learner
+### 🌍 World Happiness Score Prediction
+`🥇 Highest Judge Score` `Regression` `150+ Countries`
 
-## 📫 Let's Connect!
+Regression models predicting happiness scores (2015 to 2023) using socioeconomic indicators across 150+ countries.
+- Deep EDA, regional comparisons, seasonal modeling, interactive dashboard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelfaldu7)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-[![Email](https://img.shields.io/badge/Email-jeel.faldu7%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jeel.faldu7@gmail.com)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-jeelfaldu7-181717?logo=github&logoColor=white)](https://github.com/jeelfaldu7)
+📂 **[View all 25+ projects on my Portfolio](https://jeelfaldu7.github.io)**
 
-[![Discord](https://img.shields.io/badge/Discord-jeelfaldu__-5865F2?logo=discord&logoColor=white)]()
+---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7&show_icons=true&theme=default&cache_seconds=0)
+**Data Scientist Externship — Insight7 / TripleTen** `Aug 2025 – Sep 2025`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeelfaldu7&layout=compact&theme=tokyonight)
+Applied end-to-end ML workflows on real educational platform data, AI tutoring call metrics, and student engagement modeling.
+- Built and evaluated Gradient Boosting and Random Forest models to identify key engagement drivers
+- Cleaned and engineered features from noisy, unstructured datasets
+- Collaborated cross-functionally, iterating on modeling decisions with stakeholder feedback
 
-![Profile Views](https://komarev.com/ghpvc/?username=jeelfaldu7&color=blueviolet)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-Thanks for stopping by!
+---
 
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeelfaldu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00C4CC?style=for-the-badge&logo=github&logoColor=white)](https://jeelfaldu7.github.io)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeelfaldu7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jeelfaldu7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeelfaldu7)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to Data Scientist, ML Engineer, and Data Analyst roles, especially in healthcare, biotech, and applied analytics.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeelfaldu7&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
