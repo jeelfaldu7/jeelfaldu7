@@ -117,7 +117,7 @@ I'm an ML Engineer with a B.S. in Biology (cum laude) who brings scientific rigo
 
 - **8/12 Code Jam wins** across cross-functional teams, live judging, real deadlines
 - **3x Audience Choice Award** for dashboards and projects that communicate, not just compute
-- **4x Highest Judge Score** for NLP sentiment analysis, happiness prediction, Spotify deep learning, YouTube analytics
+- **5x Highest Judge Score** for NLP sentiment analysis, happiness prediction, Spotify deep learning, YouTube analytics
 - **Google AI Agents Intensive Capstone** shipped a production-ready NLP intelligence platform
 - **Databricks ML Certification** Data Preparation for Machine Learning
 - **Kaggle competition participant**
