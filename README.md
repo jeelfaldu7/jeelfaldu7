@@ -40,7 +40,7 @@ I'm an ML Engineer with a B.S. in Biology (cum laude) who brings scientific rigo
 
 <div align="center">
 
-| 🥇 Code Jam Wins | 🏆 Audience Awards | 🥇 Highest Judge Scores | 📦 Projects Shipped |
+| 🥇 Code Jam Wins | 🏆 Audience Awards | 🥇 Winner - Highest Judge Scores | 📦 Projects Shipped |
 |:---:|:---:|:---:|:---:|
 | **8 / 12** | **3** | **5** | **25+** |
 
