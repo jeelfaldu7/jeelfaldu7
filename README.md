@@ -216,7 +216,6 @@ Applied end-to-end ML workflows on real educational platform data, AI tutoring c
 
 *Open to Data Scientist, ML Engineer, and Data Analyst roles, especially in healthcare, biotech, and applied analytics.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeelfaldu7&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeelfaldu7&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeelfaldu7&theme=tokyonight&hide_border=true)](https://github.com/jeelfaldu7)
 
 </div>
